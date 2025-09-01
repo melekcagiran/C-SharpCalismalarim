@@ -1,0 +1,14 @@
+C:\Users\Pc\source\repos\Kitaplık\Kitaplık\bin\Debug\net8.0\Kitaplık.exe
+C:\Users\Pc\source\repos\Kitaplık\Kitaplık\bin\Debug\net8.0\Kitaplık.deps.json
+C:\Users\Pc\source\repos\Kitaplık\Kitaplık\bin\Debug\net8.0\Kitaplık.runtimeconfig.json
+C:\Users\Pc\source\repos\Kitaplık\Kitaplık\bin\Debug\net8.0\Kitaplık.dll
+C:\Users\Pc\source\repos\Kitaplık\Kitaplık\bin\Debug\net8.0\Kitaplık.pdb
+C:\Users\Pc\source\repos\Kitaplık\Kitaplık\obj\Debug\net8.0\Kitaplık.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\Kitaplık\Kitaplık\obj\Debug\net8.0\Kitaplık.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\Kitaplık\Kitaplık\obj\Debug\net8.0\Kitaplık.AssemblyInfo.cs
+C:\Users\Pc\source\repos\Kitaplık\Kitaplık\obj\Debug\net8.0\Kitaplık.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\Kitaplık\Kitaplık\obj\Debug\net8.0\Kitaplık.dll
+C:\Users\Pc\source\repos\Kitaplık\Kitaplık\obj\Debug\net8.0\refint\Kitaplık.dll
+C:\Users\Pc\source\repos\Kitaplık\Kitaplık\obj\Debug\net8.0\Kitaplık.pdb
+C:\Users\Pc\source\repos\Kitaplık\Kitaplık\obj\Debug\net8.0\Kitaplık.genruntimeconfig.cache
+C:\Users\Pc\source\repos\Kitaplık\Kitaplık\obj\Debug\net8.0\ref\Kitaplık.dll
